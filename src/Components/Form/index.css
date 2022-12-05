@@ -1,0 +1,20 @@
+input {
+    height: 30px;
+    width: 300px;
+    margin-top: 10px;
+    border: 1px solid gray;
+}
+
+.button-submit {
+    height: 35px;
+    width: 320px;
+    background-color: orangered;
+    color: #FFF;    
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+button:hover {
+    opacity: 0.7;
+}
